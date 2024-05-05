@@ -1,7 +1,7 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "prima-estension",
-  "title": "Prima estension",
+  "title": "Prima estensione",
   "description": "Prima estension",
   "icon": "Icon.png",
   "author": "andrea_cipriani",
@@ -10,7 +10,7 @@
   "commands": [
     {
       "name": "index",
-      "title": "Show Detail",
+      "title": "Mia estensione",
       "description": "Template with a plain detail view",
       "mode": "view"
     }
